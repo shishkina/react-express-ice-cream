@@ -50,6 +50,8 @@ You'll be building out a few components in prep for the afternoon. These will be
 - `IceCreamList`
 - `IceCream`
 
-[Here](https://git.generalassemb.ly/gist/jlr7245/b38c22afba40a6b76fc7e14769d9e788) is the HTML and CSS you'll be working from. 
+App should be the only component that has state. You should make the API call to get the list of ice creams from App.
+
+#### [Here is the HTML and CSS you'll be working from.](https://git.generalassemb.ly/gist/jlr7245/b38c22afba40a6b76fc7e14769d9e788)
 
 Godspeed!
